@@ -1,0 +1,24 @@
+{
+  "name": "express-learning",
+  "version": "1.0.0",
+  "description": "A good start to learn express js with node js for backend development",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "express",
+    "learning"
+  ],
+  "author": "Karthik Yerra",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
